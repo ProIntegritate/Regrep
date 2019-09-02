@@ -4,7 +4,7 @@ A Find/Grep replacement with multiple levels of RegExp. Useful for filtering CSV
 
 Syntax: Regrep INFILE "RegularExpression (-"NOTRegularExpression" "RegularExpression" -"NOTRegularExpression")
 
-**Example:**
+**Examples:**
 
 Find A but not B then filter result with C, but remove D (etc):
   *regrep INFILE "A" -"B" "C" -"D"*    (or *"A|C" -"B|D"*)
