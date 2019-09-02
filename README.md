@@ -2,7 +2,7 @@
 
 A Find/Grep replacement with multiple levels of RegExp. Useful for filtering CSVFiles, JSONL or Logfiles.
 
-Syntax: Regrep INFILE "RegularExpression (-"RegularNOTExpression" "RegularExpression" -"RegularNotExpression")
+Syntax: Regrep INFILE "RegularExpression (-"NOTRegularExpression" "RegularExpression" -"NOTRegularExpression")
 
 **Example:**
 
