@@ -18,5 +18,7 @@ Find Swedish Phonenumbers from a mass of text:
 
 2021-12-19: An x64 Linux port is now available (Regrep.Linux.x64.Net50.gz), tested with Ubuntu 20.04.3 LTS.
 
-The linux port requires .NET 5.0, which can be downloaded here: https://dotnet.microsoft.com/en-us/download/dotnet/5.0
-If you are lazy, click here: https://github.com/ProIntegritate/Testing/blob/main/install_dotnet50.sh
+The linux port requires .NET 5.0, which can be downloaded here:
+ https://dotnet.microsoft.com/en-us/download/dotnet/5.0
+If you are lazy, click here:
+ https://github.com/ProIntegritate/Testing/blob/main/install_dotnet50.sh
