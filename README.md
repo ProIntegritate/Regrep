@@ -20,4 +20,4 @@ Find Swedish Phonenumbers from a mass of text:
 
 The linux port requires .NET 5.0, which can be downloaded here: https://dotnet.microsoft.com/en-us/download/dotnet/5.0
 
-If you are lazy, click here:  https://github.com/ProIntegritate/Testing/blob/main/install_dotnet50.sh
+If you are lazy, click here:  https://github.com/ProIntegritate/Install-scripts
